@@ -1,2 +1,2 @@
-# Dados-Mercado_Games
+# Dados-Mercado-Games
  Análise de dados dos games em busca do "jogo ideal", com relação em vendas global, gênero, classificação indicativa e plataforma.
